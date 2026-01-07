@@ -1,0 +1,5 @@
+{
+  "name": "Cricket Turf Booking Pro",
+  "description": "A modern, glassmorphism-style cricket turf booking application with dynamic pricing, availability tracking, and Google Sheets integration.",
+  "requestFramePermissions": []
+}
